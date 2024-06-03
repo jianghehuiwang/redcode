@@ -15,4 +15,4 @@ scala代码运行步骤
 
 具体内容详见作者队友github介绍https://github.com/foiberh/Red-code-annotation-using-Spark
 
-此代码为本人独立编写并修改，发布于此处希望能收到学弟学妹们的修改意见
+此代码为本人独立编写并修改，发布于此处希望能收到学弟学妹们或学长学姐们的修改意见
